@@ -507,7 +507,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ProjectAtlas.kicad_pro",
+    "filename": "sensor_hub.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -879,8 +879,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ProjectAtlas.kicad_sch",
-        "name": "ProjectAtlas",
+        "filename": "sensor_hub.kicad_sch",
+        "name": "sensor_hub",
         "uuid": "dc744048-f1a1-4e1b-9e89-f4e467d996d1"
       }
     ],
@@ -890,7 +890,7 @@
   "sheets": [
     [
       "dc744048-f1a1-4e1b-9e89-f4e467d996d1",
-      "ProjectAtlas"
+      "sensor_hub"
     ]
   ],
   "text_variables": {},

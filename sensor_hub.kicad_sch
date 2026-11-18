@@ -13216,7 +13216,7 @@
 			(uuid "4a122062-c2a0-4b81-9362-2577ec97f51e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR038")
 					(unit 1)
@@ -13356,7 +13356,7 @@
 			(uuid "db25c4af-8313-44e8-9ee1-7335344f02f8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "U2")
 					(unit 1)
@@ -13435,7 +13435,7 @@
 			(uuid "7a95deb5-adbd-4efa-934d-5ebe12f7dd61")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR060")
 					(unit 1)
@@ -13572,7 +13572,7 @@
 			(uuid "b5defc3e-e394-46e9-9f64-4ff789aa3570")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C30")
 					(unit 1)
@@ -13709,7 +13709,7 @@
 			(uuid "ec50eff5-4c43-40ed-ae06-d11dd9070adc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C7")
 					(unit 1)
@@ -13788,7 +13788,7 @@
 			(uuid "08462a9b-c348-4997-9982-b6808aa4b8e5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR070")
 					(unit 1)
@@ -13868,7 +13868,7 @@
 			(uuid "b68863c8-7d6c-4c39-86c9-2967884ac764")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C12")
 					(unit 1)
@@ -13951,7 +13951,7 @@
 			(uuid "da69e6f4-afc1-462a-bcd6-4d7baeec5a03")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R31")
 					(unit 1)
@@ -14033,7 +14033,7 @@
 			(uuid "f5643cdb-c6e0-4a3e-ad32-6ab815ff8eb1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R19")
 					(unit 1)
@@ -14112,7 +14112,7 @@
 			(uuid "218dcbd0-275c-4ac6-a835-15ed831f4c21")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR07")
 					(unit 1)
@@ -14191,7 +14191,7 @@
 			(uuid "1447e128-112c-4522-b120-605a2f886dda")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C2")
 					(unit 1)
@@ -14270,7 +14270,7 @@
 			(uuid "39b743ad-fc9e-4714-8f0a-e8c7b667a9f2")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR0101")
 					(unit 1)
@@ -14347,7 +14347,7 @@
 			(uuid "d28b7202-5c26-4531-8623-adce0ac80a71")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR040")
 					(unit 1)
@@ -14481,7 +14481,7 @@
 			(uuid "66776b46-e9c1-46dc-b573-faba160e64fc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "12V-in1")
 					(unit 1)
@@ -14559,7 +14559,7 @@
 			(uuid "22f97a28-fd9c-497c-bc2a-29a5dce28415")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR04")
 					(unit 1)
@@ -14642,7 +14642,7 @@
 			(uuid "0a1ffa82-4505-461d-8fd2-d70a8fd200c2")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R36")
 					(unit 1)
@@ -14721,7 +14721,7 @@
 			(uuid "eef8b98d-d927-4a93-b37a-044fc08264cc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR095")
 					(unit 1)
@@ -14857,7 +14857,7 @@
 			(uuid "a8a681be-5a41-4b0b-a32e-022ebbc886cc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C35")
 					(unit 1)
@@ -14936,7 +14936,7 @@
 			(uuid "e538bc00-39f5-4538-8d44-f9cf7d32eb6b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR068")
 					(unit 1)
@@ -15070,7 +15070,7 @@
 			(uuid "3dd5afd6-09cc-4622-9ac7-fc39ca88ea98")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C42")
 					(unit 1)
@@ -15150,7 +15150,7 @@
 			(uuid "e8676913-653a-42b2-96ec-973f50964e79")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R14")
 					(unit 1)
@@ -15230,7 +15230,7 @@
 			(uuid "0ed3e41f-9a93-4c3e-ad9a-c2cca2e61d33")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C45")
 					(unit 1)
@@ -15307,7 +15307,7 @@
 			(uuid "9b8c63ea-1c0b-4e98-aaf7-f14785bc678e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "5v_test1")
 					(unit 1)
@@ -15386,7 +15386,7 @@
 			(uuid "315c7dac-ce9a-4ce5-b1eb-a187adf7e962")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR066")
 					(unit 1)
@@ -15466,7 +15466,7 @@
 			(uuid "22934443-727f-456c-92b3-491de5be1fa0")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C14")
 					(unit 1)
@@ -15548,7 +15548,7 @@
 			(uuid "f631125f-3af5-403c-a4b1-90d9ca3606cc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R43")
 					(unit 1)
@@ -15626,7 +15626,7 @@
 			(uuid "9a78f43b-d095-4758-99be-a085a53515f0")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR09")
 					(unit 1)
@@ -15705,7 +15705,7 @@
 			(uuid "a8cf59d0-d943-4fde-b2cf-f708cd7aae83")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR034")
 					(unit 1)
@@ -15800,7 +15800,7 @@
 			(uuid "e19ce491-03bd-43ac-a70a-13fbe533ccaf")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "JIMU2")
 					(unit 1)
@@ -15879,7 +15879,7 @@
 			(uuid "f968b6ba-dc30-426f-98b6-89ff02d2a255")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C17")
 					(unit 1)
@@ -15957,7 +15957,7 @@
 			(uuid "f9b7995e-6a34-44a1-9d0d-79ddd974a2bc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR037")
 					(unit 1)
@@ -16092,7 +16092,7 @@
 			(uuid "fcb093f5-f673-4a1d-822d-b3ddf413e5e3")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "FB1")
 					(unit 1)
@@ -16171,7 +16171,7 @@
 			(uuid "66712aae-a5f8-4afd-92a2-2c5d9b15456a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR093")
 					(unit 1)
@@ -16269,7 +16269,7 @@
 			(uuid "7a3ee027-c4be-4335-a393-0ac10576e5dc")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J1")
 					(unit 1)
@@ -16404,7 +16404,7 @@
 			(uuid "2bfd35a9-37e0-4877-85c7-03e0d2ced489")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C41")
 					(unit 1)
@@ -16540,7 +16540,7 @@
 			(uuid "8e0fa864-ae92-424d-b47e-09bc60b5a285")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C15")
 					(unit 1)
@@ -16619,7 +16619,7 @@
 			(uuid "0cc5e04b-dcfe-4bc5-a1b0-3385c10c16ed")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR047")
 					(unit 1)
@@ -16698,7 +16698,7 @@
 			(uuid "322323a1-78c0-4473-9dd7-eeb8df46a4a9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR0102")
 					(unit 1)
@@ -16833,7 +16833,7 @@
 			(uuid "62e9ca62-9333-4bb6-8698-ce4ebd9b94c4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C22")
 					(unit 1)
@@ -16915,7 +16915,7 @@
 			(uuid "8ebf6e96-cd36-4539-87d8-066f2afb8a0f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R47")
 					(unit 1)
@@ -17238,7 +17238,7 @@
 			(uuid "0b1fbdee-a487-4316-9c3b-3fbe014726a4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "U1")
 					(unit 2)
@@ -17317,7 +17317,7 @@
 			(uuid "3089ef43-5baa-4ece-948a-ee6a5009e489")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R35")
 					(unit 1)
@@ -17455,7 +17455,7 @@
 			(uuid "524e16bb-1535-4089-8502-94ff551b7e34")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "ESD1")
 					(unit 1)
@@ -17535,7 +17535,7 @@
 			(uuid "a3d8f869-0175-4de6-a9bc-b21d5abdc48a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R50")
 					(unit 1)
@@ -17617,7 +17617,7 @@
 			(uuid "0f078c12-f4f4-4afe-a635-924fe18d2ac7")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R49")
 					(unit 1)
@@ -17695,7 +17695,7 @@
 			(uuid "9de0a13c-328b-4349-961c-a05a3f071abd")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR087")
 					(unit 1)
@@ -17775,7 +17775,7 @@
 			(uuid "335ca24b-d00d-49ba-9fa9-3a396eb2eb8d")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C10")
 					(unit 1)
@@ -17854,7 +17854,7 @@
 			(uuid "abe65032-38fd-424a-ba01-668eec49579a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C20")
 					(unit 1)
@@ -17933,7 +17933,7 @@
 			(uuid "e0834edc-03b4-4075-8a30-a0faea85bf45")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR069")
 					(unit 1)
@@ -18070,7 +18070,7 @@
 			(uuid "aef73df0-99d3-47aa-b3d5-23ee4fb0eaea")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R13")
 					(unit 1)
@@ -18152,7 +18152,7 @@
 			(uuid "f4920a89-77a0-44bf-80a7-3da3a5faa318")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C51")
 					(unit 1)
@@ -18231,7 +18231,7 @@
 			(uuid "fc91e4a6-64cc-4914-920f-79bc0d6db2f4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR011")
 					(unit 1)
@@ -18311,7 +18311,7 @@
 			(uuid "2a4af54a-428c-45bd-882e-ec2fb8724fc2")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR058")
 					(unit 1)
@@ -18389,7 +18389,7 @@
 			(uuid "70d72165-70a7-4b6f-912e-1d6660722eaa")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR021")
 					(unit 1)
@@ -18468,7 +18468,7 @@
 			(uuid "9a67a143-0439-4d1c-972f-9a46d39aea67")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR099")
 					(unit 1)
@@ -18547,7 +18547,7 @@
 			(uuid "95db326b-bad2-4246-af34-cb9a964fca45")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR05")
 					(unit 1)
@@ -18627,7 +18627,7 @@
 			(uuid "6f81556f-a501-4976-9ebc-20e510a2d11e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "D1")
 					(unit 1)
@@ -18706,7 +18706,7 @@
 			(uuid "fb3a5c8a-a55f-4ec0-afb7-256b943d65d8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R37")
 					(unit 1)
@@ -18843,7 +18843,7 @@
 			(uuid "e7de89d1-453e-45ef-bbee-8938c3741806")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C4")
 					(unit 1)
@@ -18920,7 +18920,7 @@
 			(uuid "eaa91717-e5bd-4a0e-bdcd-2dffde9a8b30")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR092")
 					(unit 1)
@@ -19000,7 +19000,7 @@
 			(uuid "1513e987-baa7-4621-9ed4-56478907958b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C44")
 					(unit 1)
@@ -19079,7 +19079,7 @@
 			(uuid "6d9c79ec-4dea-44f2-9d87-f417eca171f6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R28")
 					(unit 1)
@@ -19216,7 +19216,7 @@
 			(uuid "f5b66505-2342-430e-8244-e99532b58b0b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "5V-Conn1")
 					(unit 1)
@@ -19299,7 +19299,7 @@
 			(uuid "27a420a0-39cd-4c7a-bf62-408dcef002d2")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R27")
 					(unit 1)
@@ -19378,7 +19378,7 @@
 			(uuid "39caa26a-4607-43a5-91d2-9ff835a1ec40")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR083")
 					(unit 1)
@@ -19512,7 +19512,7 @@
 			(uuid "113daafb-042d-4dff-83ef-b104579f4b34")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R7")
 					(unit 1)
@@ -19594,7 +19594,7 @@
 			(uuid "d9761958-a7fd-4ddd-8a2d-41e47c4a1ba7")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R25")
 					(unit 1)
@@ -19672,7 +19672,7 @@
 			(uuid "6dc0ce1a-e9d5-43f6-b574-85b9ec8cca6a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR03")
 					(unit 1)
@@ -19750,7 +19750,7 @@
 			(uuid "c052b01c-a04a-4631-8f8d-07eb28f4c5c1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR010")
 					(unit 1)
@@ -19829,7 +19829,7 @@
 			(uuid "9e480b9f-3092-4139-89b1-c76012e042c7")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR018")
 					(unit 1)
@@ -19966,7 +19966,7 @@
 			(uuid "2761b379-8d44-454b-8b3d-4b293e7e53e5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R4")
 					(unit 1)
@@ -20043,7 +20043,7 @@
 			(uuid "c3004a05-0330-4d31-baf8-4793ebe6d3d3")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR046")
 					(unit 1)
@@ -20125,7 +20125,7 @@
 			(uuid "6dd7ddcd-bf80-4013-a765-e2b40876d356")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R53")
 					(unit 1)
@@ -20205,7 +20205,7 @@
 			(uuid "868657ff-3275-4ddd-9e59-7b082ebaa801")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR053")
 					(unit 1)
@@ -20283,7 +20283,7 @@
 			(uuid "f8c8782c-2e3f-4ea4-9027-04d708e0f629")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR02")
 					(unit 1)
@@ -20419,7 +20419,7 @@
 			(uuid "b27cb083-e73b-4788-85dd-e094c1515f2b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C24")
 					(unit 1)
@@ -20553,7 +20553,7 @@
 			(uuid "2bbfc059-3c9e-47fc-9f70-ad5895cff763")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R32")
 					(unit 1)
@@ -20687,7 +20687,7 @@
 			(uuid "7f1739ff-ffea-4028-8c4e-b082a9ddc33b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "EC_12V1")
 					(unit 1)
@@ -20836,7 +20836,7 @@
 			(uuid "70f1f5a3-caf2-4db5-b3aa-00012aaa3595")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "STLINK1")
 					(unit 1)
@@ -20916,7 +20916,7 @@
 			(uuid "24d493f7-79f5-4fea-8eec-52dc17a6f273")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C11")
 					(unit 1)
@@ -20998,7 +20998,7 @@
 			(uuid "18f36767-653b-47a9-bcbd-fb40b44f4509")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C21")
 					(unit 1)
@@ -21075,7 +21075,7 @@
 			(uuid "2022f413-a5dc-48e1-a28b-a5357ee5fa88")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR091")
 					(unit 1)
@@ -21154,7 +21154,7 @@
 			(uuid "ff9384c5-296b-4143-a64b-703a924b73cd")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C16")
 					(unit 1)
@@ -21291,7 +21291,7 @@
 			(uuid "2de4dbbc-2cf7-4c0e-a897-850dce993952")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J18")
 					(unit 1)
@@ -21428,7 +21428,7 @@
 			(uuid "e12dc519-9bff-4e5f-b667-c594f217d937")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C29")
 					(unit 1)
@@ -21505,7 +21505,7 @@
 			(uuid "a55c7311-6962-43df-892c-16b964e25612")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "12v_test1")
 					(unit 1)
@@ -21583,7 +21583,7 @@
 			(uuid "47b9ecc0-19c0-4f71-bab8-bdc4bcbe1164")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR082")
 					(unit 1)
@@ -21679,7 +21679,7 @@
 			(uuid "607c420f-b549-43d5-90ff-0318f269d8d1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J6")
 					(unit 1)
@@ -21814,7 +21814,7 @@
 			(uuid "91222012-4a92-440b-9a11-cc4ec9b4d2be")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "EC_5V1")
 					(unit 1)
@@ -21910,7 +21910,7 @@
 			(uuid "6a463ed7-7ed7-46b5-9640-3d216102a03b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J7")
 					(unit 1)
@@ -21989,7 +21989,7 @@
 			(uuid "3d08c4f6-3f91-445b-bd16-81e49d9f32b6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR088")
 					(unit 1)
@@ -22078,7 +22078,7 @@
 			(uuid "db0219b2-ea16-4013-be92-636b96aa2f51")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "U3")
 					(unit 1)
@@ -22214,7 +22214,7 @@
 			(uuid "0f1d6762-2ce7-4131-b88d-626db6c2e274")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R5")
 					(unit 1)
@@ -22294,7 +22294,7 @@
 			(uuid "7785dfbf-2dcc-4346-aed7-b548fbc8589b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C48")
 					(unit 1)
@@ -22374,7 +22374,7 @@
 			(uuid "270cb529-d20e-4705-b38e-2d44ca73c714")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C47")
 					(unit 1)
@@ -22453,7 +22453,7 @@
 			(uuid "f8e6b18a-694f-4fe1-b661-1f932ff86d10")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR071")
 					(unit 1)
@@ -22601,7 +22601,7 @@
 			(uuid "97e97986-2b71-47fc-901e-9d195762e1bb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "LEDCAN2")
 					(unit 1)
@@ -22738,7 +22738,7 @@
 			(uuid "7da8a3e0-fe0a-4526-b35c-e10e2e66db72")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R1")
 					(unit 1)
@@ -22816,7 +22816,7 @@
 			(uuid "cc0d044c-3d8a-440a-bf6f-b8ddee45817e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR01")
 					(unit 1)
@@ -22896,7 +22896,7 @@
 			(uuid "aac8bda3-32db-450d-8c2b-f705fb0c233b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR052")
 					(unit 1)
@@ -22974,7 +22974,7 @@
 			(uuid "bbb134d2-9ff3-49f5-9879-0570cbfed374")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR019")
 					(unit 1)
@@ -23052,7 +23052,7 @@
 			(uuid "9a89300e-145e-42a2-8906-f0149f8ba970")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR072")
 					(unit 1)
@@ -23130,7 +23130,7 @@
 			(uuid "6ec344f5-562e-4220-996a-d4f65ca49e21")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR073")
 					(unit 1)
@@ -23209,7 +23209,7 @@
 			(uuid "edd9a279-b63b-42e7-8187-b2c228a6e03f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR045")
 					(unit 1)
@@ -23287,7 +23287,7 @@
 			(uuid "b35e45f7-4d5d-4f24-afae-d80f74040664")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR025")
 					(unit 1)
@@ -23566,7 +23566,7 @@
 			(uuid "b519af9e-ad18-4935-af59-c48481aaafd9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "JUSB1")
 					(unit 1)
@@ -23646,7 +23646,7 @@
 			(uuid "bab4ed5a-95bf-4dc0-a51c-a18cf42870bb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R54")
 					(unit 1)
@@ -23725,7 +23725,7 @@
 			(uuid "6e7c3b59-3d1f-4ea0-a76f-391fac7404a8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR090")
 					(unit 1)
@@ -23807,7 +23807,7 @@
 			(uuid "c7602e6a-c0dc-4681-9c23-c8255e7ab808")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R34")
 					(unit 1)
@@ -23903,7 +23903,7 @@
 			(uuid "508470fc-4908-4636-b105-b6bfa2d2249c")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J5")
 					(unit 1)
@@ -23982,7 +23982,7 @@
 			(uuid "ad34d3b7-7699-4aa3-b240-3202c0c22f34")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR096")
 					(unit 1)
@@ -24116,7 +24116,7 @@
 			(uuid "756c513b-9700-4307-a69e-9b4727c23300")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "12V-Conn1")
 					(unit 1)
@@ -24195,7 +24195,7 @@
 			(uuid "cb74cc4a-a72f-415a-8bd0-ce8009e24911")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR044")
 					(unit 1)
@@ -24274,7 +24274,7 @@
 			(uuid "59740f67-b738-4647-a55a-0e1e3509c9cd")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR098")
 					(unit 1)
@@ -24354,7 +24354,7 @@
 			(uuid "f11729b8-1b97-4d34-82bd-6d49b2551fc6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R42")
 					(unit 1)
@@ -24433,7 +24433,7 @@
 			(uuid "92c7b7e7-55ff-4317-b20b-00dd0de09dce")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R30")
 					(unit 1)
@@ -24568,7 +24568,7 @@
 			(uuid "ac593d72-09c0-44a2-8228-65f631ec97df")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R18")
 					(unit 1)
@@ -24647,7 +24647,7 @@
 			(uuid "80a1ec7e-6c56-455b-b7b5-baf0a62de27b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR084")
 					(unit 1)
@@ -24781,7 +24781,7 @@
 			(uuid "c5eae649-a71f-4f0e-aaa6-242fcc0eb5ad")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "EC_3V3")
 					(unit 1)
@@ -24859,7 +24859,7 @@
 			(uuid "b299152a-2608-4cbf-9da5-23355d2e3604")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR081")
 					(unit 1)
@@ -24994,7 +24994,7 @@
 			(uuid "b25c48e7-b33d-4edc-9722-a63f47e67458")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C34")
 					(unit 1)
@@ -25131,7 +25131,7 @@
 			(uuid "c04a80b2-206f-47f6-912a-6dcd3e7f0469")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J2")
 					(unit 1)
@@ -25211,7 +25211,7 @@
 			(uuid "e9ec5e3f-8edf-477a-b965-b3796474eaf3")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "D2")
 					(unit 1)
@@ -25289,7 +25289,7 @@
 			(uuid "36aaf721-ad00-4503-b61d-eff1fedd5947")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR013")
 					(unit 1)
@@ -25437,7 +25437,7 @@
 			(uuid "44e1cfe9-3578-4d48-ba62-06b996fbc1f6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "LEDCAN1")
 					(unit 1)
@@ -25520,7 +25520,7 @@
 			(uuid "cfbcc734-3bfe-47c4-acd5-5d54b19e8eeb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R29")
 					(unit 1)
@@ -25600,7 +25600,7 @@
 			(uuid "e910419b-146e-471e-a1a3-0d2f417539a2")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R46")
 					(unit 1)
@@ -25696,7 +25696,7 @@
 			(uuid "620481eb-2013-4ae3-9e3a-ac41e9511325")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "J4")
 					(unit 1)
@@ -25778,7 +25778,7 @@
 			(uuid "c24cdeb2-c89c-46f3-a6c1-81f63c61a2e9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R51")
 					(unit 1)
@@ -25857,7 +25857,7 @@
 			(uuid "8de101e0-d641-4e97-9a42-643a44f8418c")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR063")
 					(unit 1)
@@ -25997,7 +25997,7 @@
 			(uuid "8cd6c6d4-40a4-4d2b-9c37-454db52b1392")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "RESET1")
 					(unit 1)
@@ -26133,7 +26133,7 @@
 			(uuid "bf2a7c77-3e55-41de-8360-6c1420307d30")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R15")
 					(unit 1)
@@ -26269,7 +26269,7 @@
 			(uuid "a8311f9a-a4c3-40a1-9f09-05771c01389d")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R11")
 					(unit 1)
@@ -26347,7 +26347,7 @@
 			(uuid "0713a2c7-0ec6-490c-ada6-3e90706a8e69")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR086")
 					(unit 1)
@@ -26430,7 +26430,7 @@
 			(uuid "266ff6ff-c325-4ded-ad82-cefa88b9b17e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R12")
 					(unit 1)
@@ -26567,7 +26567,7 @@
 			(uuid "0f3ffaa4-ceb3-4bbc-8cad-9c2605ec0635")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C6")
 					(unit 1)
@@ -26646,7 +26646,7 @@
 			(uuid "483f369a-efce-4e65-bc4c-8991a09c1bb7")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR097")
 					(unit 1)
@@ -26725,7 +26725,7 @@
 			(uuid "4126b372-8708-4fc9-becd-fc7a8bde7ae6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR012")
 					(unit 1)
@@ -26804,7 +26804,7 @@
 			(uuid "e13f1c24-0301-43ee-8b00-d3e897d246ce")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR041")
 					(unit 1)
@@ -26938,7 +26938,7 @@
 			(uuid "9f74a2e2-d6cc-41b3-acf3-168cf93b8055")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "3V3-Conn1")
 					(unit 1)
@@ -27016,7 +27016,7 @@
 			(uuid "389ccbb1-d319-4b21-9235-c6a62a7a07e4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR026")
 					(unit 1)
@@ -27095,7 +27095,7 @@
 			(uuid "b25645ee-7293-4f7e-bde9-2e46a4d24e3f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR085")
 					(unit 1)
@@ -27175,7 +27175,7 @@
 			(uuid "43b4a3ea-eac0-46cb-930f-722a940693a5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR062")
 					(unit 1)
@@ -27327,7 +27327,7 @@
 			(uuid "feac6ee4-455a-4f1f-b482-2f613aae0ced")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "5->3V3")
 					(unit 1)
@@ -27464,7 +27464,7 @@
 			(uuid "c404c5d8-f863-48c8-84ae-a8d076a14512")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C19")
 					(unit 1)
@@ -27543,7 +27543,7 @@
 			(uuid "28d6015a-573c-4914-8bc6-2dee0f92d1e9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR0100")
 					(unit 1)
@@ -27680,7 +27680,7 @@
 			(uuid "f8a0c304-09c9-43a6-b06a-fe1485cb01af")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C40")
 					(unit 1)
@@ -27836,7 +27836,7 @@
 			(uuid "6fc296bb-48ea-4817-b36f-44fdf3bdca64")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "TJACAN3")
 					(unit 1)
@@ -27915,7 +27915,7 @@
 			(uuid "c321349c-3422-439b-91f4-79b39a406c6f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C23")
 					(unit 1)
@@ -27995,7 +27995,7 @@
 			(uuid "4b644e29-50f0-4bf2-8e91-5ecffbf99daa")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR061")
 					(unit 1)
@@ -28131,7 +28131,7 @@
 			(uuid "73a23c26-d24c-4930-a3d6-23a8d0324822")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C26")
 					(unit 1)
@@ -28267,7 +28267,7 @@
 			(uuid "583c23a6-071f-425a-a91e-0fcd272d0a7f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C27")
 					(unit 1)
@@ -28346,7 +28346,7 @@
 			(uuid "5c51a1fb-db28-488d-90f5-c347f940fb0a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR027")
 					(unit 1)
@@ -28426,7 +28426,7 @@
 			(uuid "6367421e-15b3-489c-a271-93072c2efc2b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C49")
 					(unit 1)
@@ -28582,7 +28582,7 @@
 			(uuid "f1b85883-5e30-409d-bdd9-61f838766e73")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "TJACAN2")
 					(unit 1)
@@ -28719,7 +28719,7 @@
 			(uuid "8023b037-78ac-45a3-9341-51944290dcb5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R2")
 					(unit 1)
@@ -28855,7 +28855,7 @@
 			(uuid "bf00d601-2608-4393-baab-dd361e1799b8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C36")
 					(unit 1)
@@ -28934,7 +28934,7 @@
 			(uuid "cf1920b8-a5ca-4291-8027-9fc484397cdf")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR078")
 					(unit 1)
@@ -29016,7 +29016,7 @@
 			(uuid "10acd57e-3bb8-4507-a5c6-aea7ff180381")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R55")
 					(unit 1)
@@ -29096,7 +29096,7 @@
 			(uuid "6da1864d-333c-4807-850e-762e2848b252")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C46")
 					(unit 1)
@@ -29176,7 +29176,7 @@
 			(uuid "0c7f2f4d-3b30-41ec-887a-1a3cb68796cb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R20")
 					(unit 1)
@@ -29255,7 +29255,7 @@
 			(uuid "94faeda2-a7b1-4cb8-960d-59daef6b8f47")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR031")
 					(unit 1)
@@ -29333,7 +29333,7 @@
 			(uuid "c45cd78f-4851-44ed-a1b6-bdf6f52fc210")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR032")
 					(unit 1)
@@ -29524,7 +29524,7 @@
 			(uuid "717b475e-c781-441a-ad4b-4c115e33014b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "12->5V1")
 					(unit 1)
@@ -29603,7 +29603,7 @@
 			(uuid "318d9fb4-f6b7-47af-9148-6cc958e507e9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR029")
 					(unit 1)
@@ -29682,7 +29682,7 @@
 			(uuid "d2df1614-4b57-483e-9f07-13033570cf72")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C32")
 					(unit 1)
@@ -29762,7 +29762,7 @@
 			(uuid "b5388eb3-dbc4-4f7d-8633-44335a79f1b9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R48")
 					(unit 1)
@@ -29898,7 +29898,7 @@
 			(uuid "61ad748e-fca1-4d81-88f5-1426ee208918")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C39")
 					(unit 1)
@@ -30035,7 +30035,7 @@
 			(uuid "0cdb333a-07d8-468b-9c9a-099eaede8b42")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R41")
 					(unit 1)
@@ -30172,7 +30172,7 @@
 			(uuid "933f8495-21d9-4918-85f3-da4fa853b510")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C5")
 					(unit 1)
@@ -30254,7 +30254,7 @@
 			(uuid "eed63a2f-d586-442d-9d96-99a0abd8621e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R33")
 					(unit 1)
@@ -30391,7 +30391,7 @@
 			(uuid "9db7bf9d-9f30-4482-b3e9-54a9111e4640")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C37")
 					(unit 1)
@@ -30527,7 +30527,7 @@
 			(uuid "719f293f-7183-4ac9-abf6-3e8ee99bce29")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R9")
 					(unit 1)
@@ -30664,7 +30664,7 @@
 			(uuid "28d8c75e-9ebd-4497-b7de-26bc9c4eb13d")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C31")
 					(unit 1)
@@ -30744,7 +30744,7 @@
 			(uuid "31909e61-0e4c-4c89-87a6-925b81ba62b1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR059")
 					(unit 1)
@@ -30823,7 +30823,7 @@
 			(uuid "555c3872-757b-4d19-b129-ca33c66bfe36")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR049")
 					(unit 1)
@@ -30901,7 +30901,7 @@
 			(uuid "50200aaf-511e-41b0-b16e-8d87d48e3674")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR08")
 					(unit 1)
@@ -31038,7 +31038,7 @@
 			(uuid "3dbb3c06-3e36-4ca7-ba95-973abd77baeb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C3")
 					(unit 1)
@@ -31121,7 +31121,7 @@
 			(uuid "c3939841-2121-4a94-9810-f2b2531f3840")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R38")
 					(unit 1)
@@ -31200,7 +31200,7 @@
 			(uuid "6dcbd123-ae6f-434e-9f21-c64a5e92091f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR079")
 					(unit 1)
@@ -31337,7 +31337,7 @@
 			(uuid "af98da46-3694-44fa-89bd-c69985c92018")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C9")
 					(unit 1)
@@ -31416,7 +31416,7 @@
 			(uuid "8dfb1185-8ca8-4dc7-9b11-8228eca32049")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR067")
 					(unit 1)
@@ -31494,7 +31494,7 @@
 			(uuid "0e025a97-f4fe-4334-81a0-f4a67fc5e2d9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR075")
 					(unit 1)
@@ -31631,7 +31631,7 @@
 			(uuid "d35d031c-4ddf-4256-9617-21ff2f0a748d")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C8")
 					(unit 1)
@@ -31708,7 +31708,7 @@
 			(uuid "ca1c9890-37df-42d6-9a07-487db1ebf5cb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR057")
 					(unit 1)
@@ -31787,7 +31787,7 @@
 			(uuid "63941d18-3f18-4497-b16e-acf36c109f95")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR036")
 					(unit 1)
@@ -31869,7 +31869,7 @@
 			(uuid "6d41782b-03e4-4af7-8aa2-3f915a380ec9")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R21")
 					(unit 1)
@@ -31949,7 +31949,7 @@
 			(uuid "2f1602d4-5e90-489b-9546-a5307d4931ce")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R52")
 					(unit 1)
@@ -32084,7 +32084,7 @@
 			(uuid "88c069ed-0a55-4e11-a5d3-1191e3ebaa6c")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C18")
 					(unit 1)
@@ -32220,7 +32220,7 @@
 			(uuid "a1d28e0c-f019-483a-b19b-da38cc1797a4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C38")
 					(unit 1)
@@ -32298,7 +32298,7 @@
 			(uuid "f78227d9-271d-48ae-b676-ecb9c0f4224b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR022")
 					(unit 1)
@@ -32380,7 +32380,7 @@
 			(uuid "da8a9528-2e8e-40db-8c5c-c54ce6dbe642")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R16")
 					(unit 1)
@@ -32457,7 +32457,7 @@
 			(uuid "a8c3a0dc-143a-43cf-9efe-5958bfa7440f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR056")
 					(unit 1)
@@ -32598,7 +32598,7 @@
 			(uuid "9cd9cafc-723f-414f-b464-9c164399f407")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "BOOT1")
 					(unit 1)
@@ -32735,7 +32735,7 @@
 			(uuid "e3dadb88-82a6-4835-a581-12d46c8d3281")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "CR1")
 					(unit 1)
@@ -32815,7 +32815,7 @@
 			(uuid "d90d0cd8-b758-4fea-aee5-e199e7976227")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R23")
 					(unit 1)
@@ -32895,7 +32895,7 @@
 			(uuid "9a91d612-faca-4853-ab13-653e0356e953")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR077")
 					(unit 1)
@@ -32973,7 +32973,7 @@
 			(uuid "60b7a233-be47-48ac-9544-c9a5e867a8f1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR024")
 					(unit 1)
@@ -33051,7 +33051,7 @@
 			(uuid "43dcfa81-8776-49a6-bcb4-b2c0e33645a4")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR080")
 					(unit 1)
@@ -33187,7 +33187,7 @@
 			(uuid "20e6ce79-40c9-45d8-8374-b1d42fc96f17")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C28")
 					(unit 1)
@@ -33334,7 +33334,7 @@
 			(uuid "c743a6a8-f099-401a-8270-21c74b9c8cf8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "LED-3V3")
 					(unit 1)
@@ -33411,7 +33411,7 @@
 			(uuid "0f1bea2d-64f2-435f-b18f-b87eef599ffb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR048")
 					(unit 1)
@@ -33488,7 +33488,7 @@
 			(uuid "d617bac9-9a9c-42ce-b465-48b382d49f0e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "GNDtest1")
 					(unit 1)
@@ -33567,7 +33567,7 @@
 			(uuid "ae19e38f-137d-4acf-848d-dac3eaf7b40b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR017")
 					(unit 1)
@@ -33646,7 +33646,7 @@
 			(uuid "44a245b0-c2a5-444f-a47a-2b18284d40e3")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR033")
 					(unit 1)
@@ -33726,7 +33726,7 @@
 			(uuid "995f8d66-5200-4762-9c0a-8e100b20cf60")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR076")
 					(unit 1)
@@ -33806,7 +33806,7 @@
 			(uuid "6712c86e-f3d4-417e-bdab-cf5fd5d6c7b6")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR054")
 					(unit 1)
@@ -33884,7 +33884,7 @@
 			(uuid "af8f67d6-5ae9-4a2d-9cac-02ca5a619b83")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR039")
 					(unit 1)
@@ -33963,7 +33963,7 @@
 			(uuid "3359fa5c-a800-4a67-bbe5-d39e8a4cb0fe")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR035")
 					(unit 1)
@@ -34041,7 +34041,7 @@
 			(uuid "bf36c6de-a2e1-41d6-90ed-a3e4b1add9b3")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR023")
 					(unit 1)
@@ -34189,7 +34189,7 @@
 			(uuid "3130de67-04de-4894-9ada-253187023a1b")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "LED-5V1")
 					(unit 1)
@@ -34269,7 +34269,7 @@
 			(uuid "3a19c70a-0dc7-44ee-ada4-97c1bf8b0eb8")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR055")
 					(unit 1)
@@ -34348,7 +34348,7 @@
 			(uuid "3ad5560b-4534-4ede-be6a-6c6f72e12d0c")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR089")
 					(unit 1)
@@ -34671,7 +34671,7 @@
 			(uuid "0b1fbdee-a487-4316-9c3b-3fbe014726a5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "U1")
 					(unit 1)
@@ -34750,7 +34750,7 @@
 			(uuid "45be5536-1f74-4065-9a62-7ebaa129c84f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R10")
 					(unit 1)
@@ -34832,7 +34832,7 @@
 			(uuid "63a38313-0200-411f-8a98-b347108b265e")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R45")
 					(unit 1)
@@ -34969,7 +34969,7 @@
 			(uuid "206feabe-1e0a-42a5-9f26-007b2d5023f5")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R3")
 					(unit 1)
@@ -35051,7 +35051,7 @@
 			(uuid "2e3c55e6-9627-4914-8d70-be6c77f91531")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R44")
 					(unit 1)
@@ -35188,7 +35188,7 @@
 			(uuid "b674a763-edf9-4d33-a408-2df4543456af")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C25")
 					(unit 1)
@@ -35324,7 +35324,7 @@
 			(uuid "7209a9f1-1609-4063-ad59-5a8241454f61")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R8")
 					(unit 1)
@@ -35403,7 +35403,7 @@
 			(uuid "333f2cc9-3808-4aeb-97da-a116f67210f1")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R26")
 					(unit 1)
@@ -35483,7 +35483,7 @@
 			(uuid "d13bf638-fcc8-4975-9f6d-bb201cfb443d")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR051")
 					(unit 1)
@@ -35562,7 +35562,7 @@
 			(uuid "08391e77-6267-4108-8199-341b636324eb")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR06")
 					(unit 1)
@@ -35641,7 +35641,7 @@
 			(uuid "0dc70ed0-35e2-42fe-8cba-9e943fa9db4f")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR094")
 					(unit 1)
@@ -35719,7 +35719,7 @@
 			(uuid "45a09e65-92ea-462a-910f-af2919a703e7")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR020")
 					(unit 1)
@@ -35796,7 +35796,7 @@
 			(uuid "1de3aa28-8ebb-48ca-a7a0-e8c0aa685685")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "3.3v_test1")
 					(unit 1)
@@ -35876,7 +35876,7 @@
 			(uuid "d50ade80-b166-42df-a1ed-7fb0e8f79d22")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR050")
 					(unit 1)
@@ -35954,7 +35954,7 @@
 			(uuid "5c28340d-143a-45d8-bc80-a82fca97c688")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "#PWR028")
 					(unit 1)
@@ -36034,7 +36034,7 @@
 			(uuid "4f129696-19d2-4d4e-9d75-2108d59bfd6a")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "R17")
 					(unit 1)
@@ -36170,7 +36170,7 @@
 			(uuid "deca32b2-7b3d-4f46-b061-bca79b14db88")
 		)
 		(instances
-			(project "ProjectAtlas"
+			(project "sensor_hub"
 				(path "/dc744048-f1a1-4e1b-9e89-f4e467d996d1"
 					(reference "C43")
 					(unit 1)
