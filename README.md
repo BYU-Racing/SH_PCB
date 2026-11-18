@@ -1,6 +1,9 @@
 Based on the BYU Racing Atlas board
+
 Contributers:
+
 Josh Wittwer
+
 Josh Mix
 
 ### Description
