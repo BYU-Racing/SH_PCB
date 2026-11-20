@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CAN Transceiver") (type "KiCad") (uri "${KIPRJMOD}/footprints_custom.pretty/PCB Stuff/TCAN1044AVDRQ1.kicad_sym") (options "") (descr ""))
+	(lib (name "USB Symbol") (type "KiCad") (uri "/Users/joshmix/Documents/BYURacing/PCB Stuff/KiCADv6/2026-11-20_01-35-35.kicad_sym") (options "") (descr ""))
+	(lib (name "Diode Symbol") (type "KiCad") (uri "/Users/joshmix/Documents/BYURacing/PCB Stuff/1N4448W/KiCad/diode.kicad_sym") (options "") (descr ""))
+)
