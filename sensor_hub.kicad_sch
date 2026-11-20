@@ -25584,7 +25584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_Atlas_Footprints:TS-1187A-B-A-B"
+		(property "Footprint" "footprints_custom:SW4_1825910-B_TEC"
 			(at 382.524 370.078 0)
 			(hide yes)
 			(show_name no)
@@ -32311,7 +32311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_Atlas_Footprints:GCT_USB4105-GF-A"
+		(property "Footprint" "footprints_custom:GCT_USB4105-GF-A"
 			(at 158.75 327.66 0)
 			(hide yes)
 			(show_name no)
@@ -32884,7 +32884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Project_Atlas_Footprints:TS-1187A-B-A-B"
+		(property "Footprint" "footprints_custom:SW4_1825910-B_TEC"
 			(at 260.096 371.348 0)
 			(hide yes)
 			(show_name no)
