@@ -12158,7 +12158,7 @@
 		)
 		(uuid "063fa05e-8130-4eec-ad8a-1461414d227a")
 	)
-	(label "IMU_CANH"
+	(label "IMU_CAN+"
 		(at 711.2 124.46 0)
 		(effects
 			(font
@@ -12298,7 +12298,7 @@
 		)
 		(uuid "23b2ff02-8f52-47f3-98c5-75d6776a189a")
 	)
-	(label "AUX_CANL"
+	(label "AUX_CAN-"
 		(at 707.39 313.69 270)
 		(effects
 			(font
@@ -12357,6 +12357,16 @@
 			(justify right bottom)
 		)
 		(uuid "318b0606-ec3b-4f9b-b833-10515f382cbd")
+	)
+	(label "BRAKE_TMP_FL_SIG"
+		(at 293.37 394.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35b9b227-f24c-4824-a438-714ae3623cca")
 	)
 	(label "SWCLK"
 		(at 293.37 354.33 180)
@@ -12748,7 +12758,7 @@
 		)
 		(uuid "9630c83f-add2-45fc-af59-76d24e84a046")
 	)
-	(label "IMU_CANH"
+	(label "IMU_CAN+"
 		(at 712.47 313.69 270)
 		(effects
 			(font
@@ -12818,7 +12828,17 @@
 		)
 		(uuid "9c0559ed-fd8e-4ed3-9bfb-b1dc14a5089d")
 	)
-	(label "AUX_CANL"
+	(label "BRAKE_TMP_FR_SIG"
+		(at 293.37 392.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9cebf8ca-7e7d-42ed-a3e1-d90c81e97cd3")
+	)
+	(label "AUX_CAN-"
 		(at 713.74 208.28 0)
 		(effects
 			(font
@@ -12958,7 +12978,7 @@
 		)
 		(uuid "af0e1452-889e-4ff1-832d-9e953ae6f519")
 	)
-	(label "IMU_CANL"
+	(label "IMU_CAN-"
 		(at 711.2 144.78 0)
 		(effects
 			(font
@@ -12988,7 +13008,7 @@
 		)
 		(uuid "b4092129-4ef6-47f4-b4f5-926eee217018")
 	)
-	(label "AUX_CANH"
+	(label "AUX_CAN+"
 		(at 704.85 313.69 270)
 		(effects
 			(font
@@ -13088,7 +13108,7 @@
 		)
 		(uuid "c1c5157c-e1f7-4e19-b0c0-86c8457c265e")
 	)
-	(label "REAR_SENSOR_12V"
+	(label "12V"
 		(at 709.93 313.69 270)
 		(effects
 			(font
@@ -13198,7 +13218,7 @@
 		)
 		(uuid "d631ab72-0048-4796-9f17-8403d56a151e")
 	)
-	(label "AUX_CANH"
+	(label "AUX_CAN+"
 		(at 713.74 190.5 0)
 		(effects
 			(font
@@ -13258,7 +13278,7 @@
 		)
 		(uuid "de139e89-941d-4e4d-8ae3-11cef1ad68de")
 	)
-	(label "IMU_CANL"
+	(label "IMU_CAN-"
 		(at 715.01 313.69 270)
 		(effects
 			(font
@@ -15221,7 +15241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints_custom:D0008A-IPC_A"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-8_HandSoldering"
 			(at 651.51 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -20131,7 +20151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints_custom:D0008A-IPC_A"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-8_HandSoldering"
 			(at 651.51 195.58 0)
 			(hide yes)
 			(show_name no)
